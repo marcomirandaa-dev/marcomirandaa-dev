@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Engineer<br>- Desenvolvedor Java</p>
+<p align="left">- Software Engineer<br>- Java Developer</p>
 
 ###
 
