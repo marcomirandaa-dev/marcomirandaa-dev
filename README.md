@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻  Estudante de Engenharia de Software com foco em desenvolvimento back-end.<br>💡 Atualmente estudando Java, Python e automações com IA.<br>📂 Aqui você encontra meus projetos, estudos e experimentos em programação.</p>
+<p align="left">👨‍💻  Estudante de Engenharia de Software com foco em desenvolvimento back-end.<br>💡 Atualmente estou participando da Oracle Next Education.<br>📂 Aqui você encontra meus projetos, estudos e experimentos em programação.</p>
 
 ###
 
